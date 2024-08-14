@@ -32,3 +32,51 @@ Normal Text
 42. Number list 3
 69. Number list 4
 51. Number list 5
+
+![My Happy Gif](Shrubson.gif)
+
+Hello :)
+
+## Code Block
+
+The key on the top left of your keyboard under esc \
+
+```
+public class test
+{
+	int codeHere = 0;
+}
+```
+
+## Blockquote
+> test \
+> another blockquote
+>> nested
+
+## Formatting
+
+This text is **Bold** \
+This text is __Bold__ \
+This text is *Italics* \
+This text is _Italics_ \
+This text is ~~strikeout~~ \
+This text is ~Subscript~ \
+This text is ^Superscript^
+
+This text is ^^Superscript^^
+
+This text is ^^^Superscript^^^
+
+This text is ^^^^Superscript^^^^
+
+This text is ^^^^^Superscript^^^^^
+
+This text is ^^^^^^Uberscriptscript^^^^^^
+
+This text is ^~Subscript~^
+
+This text is ~~~subscript~~~
+
+This text is ^~~~Subscript~~~^
+
+This text is ***Bold & Italics***
